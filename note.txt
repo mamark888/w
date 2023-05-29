@@ -1,0 +1,5 @@
+希望採全雲端的方式建立 github pages 網站
+近端,中端 > 雲端啟用動態網站編輯網頁內容
+登入 gmail 帳號 -> https://replit.com
+在Replit 中建立 Reql -> 選用 Python template -> 將專案命名為w15
+https://github.com/mdecycu/cmsimde.git cmsimde
